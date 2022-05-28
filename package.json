@@ -8,6 +8,7 @@
     },
     "icon": "icon.png",
     "publisher": "SScipione",
+    "repository": {"AtomOneDarkHC": "https://github.com/sscipione/AtomOneDarkHC"},
     "categories": [
         "Themes"
     ],
