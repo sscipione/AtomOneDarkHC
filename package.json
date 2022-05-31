@@ -2,13 +2,15 @@
     "name": "AtomOneDarkHC",
     "displayName": "Atom One Dark (High Contrast)",
     "description": "Atom One Dark (High Contrast) color theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.67.0"
     },
     "icon": "icon.png",
     "publisher": "SScipione",
-    "repository": {"AtomOneDarkHC": "https://github.com/sscipione/AtomOneDarkHC.git"},
+    "repository": {
+        "AtomOneDarkHC": "https://github.com/sscipione/AtomOneDarkHC.git"
+    },
     "categories": [
         "Themes"
     ],
