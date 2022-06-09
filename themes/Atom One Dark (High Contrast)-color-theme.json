@@ -78,17 +78,17 @@
 		"statusBar.foreground": "#9da5b4",
 		"statusBar.noFolderBackground": "#21252b",
 		"statusBarItem.hoverBackground": "#2c313a",
-		"tab.activeBackground": "#282c34",
+		"tab.activeBackground": "#00ff6030",
 		"tab.activeForeground": "#d7dae0",
-		"tab.border": "#181a1f",
-		"tab.inactiveBackground": "#21252b",
+		"tab.inactiveBackground": "#00ff6017",
+		"tab.border": "#0fff0f50",
 		"titleBar.activeBackground": "#00ff6030",
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.border": "#0fff0f50",
 		"titleBar.inactiveBackground": "#00ff6017",
 		"titleBar.inactiveForeground": "#9da5b4",
 		"window.activeBorder": "#0fff0f50",
-		"window.inactiveBorder": "#0fff0f50",
+		"window.inactiveBorder": "#0fff0f50"
 	},
 	"tokenColors": [
 		{
